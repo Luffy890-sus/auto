@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media(min-width: 1000px) {
+    .contenir-54{
+        max-width: 1450px;
+        padding: 0px 20px;
+        margin: auto;
+    }
+}
